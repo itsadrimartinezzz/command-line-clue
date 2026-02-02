@@ -7,8 +7,8 @@
 
 ## Weapons
 - [ ] Bronze Trophy
-- [ ] Leather Gloves
-- [ ] Magnifying Glass
+- [X] Leather Gloves
+- [X] Magnifying Glass
 
 ## Notes
 *Use this space to record your findings and deductions...*

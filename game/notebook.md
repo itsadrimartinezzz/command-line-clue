@@ -1,7 +1,7 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Florist
+- [X] The Florist
 - [X] The Banker
 - [ ] The Police Officer
 
